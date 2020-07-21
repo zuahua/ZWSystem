@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="translucant">#99ffffff</color>
+    <color name="darkgrey"> #999999</color>
+    <color name="cyan">#79c8d5</color>
+
+    <color name="dividing_light">#f0f0f0</color>
+
+    <color name="divider">#BDBDBD</color>
+    <color name="dodgerblue">#1E90FF</color>
+</resources>
